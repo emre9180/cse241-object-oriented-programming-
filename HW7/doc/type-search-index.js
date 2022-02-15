@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"emre9180","l":"DayOfYearSet.DayOfYear"},{"p":"emre9180","l":"DayOfYearSet"}]
