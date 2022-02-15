@@ -1,0 +1,17 @@
+GAME TYPE:
+computer
+NUMBER OF MOVES:
+14
+IS TYPE SIX:
+false
+BOARD:
+L 0 0 0 0 2 0 0 0 0
+L 0 0 0 1 2 2 0 0 0
+L 0 0 2 1 2 1 1 0 0
+L 0 2 2 1 1 2 1 2 0
+L 2 2 1 1 2 2 2 2 2
+L 0 2 1 1 1 1 1 2 0
+L 0 0 2 2 2 1 2 0 0
+L 0 0 0 2 2 2 0 0 0
+L 0 0 0 0 2 0 0 0 0
+e
