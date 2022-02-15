@@ -1,0 +1,889 @@
+
+
+Your current score is: 43 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   P P P P P P P P P 
+6   P P P P . P P P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move E7-U is OK! New board is above.
+
+
+
+Your current score is: 42 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   P P P P P P P P P 
+6   P P . . P P P P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move C6-R is OK! New board is above.
+
+
+
+Your current score is: 41 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P . P P P P P P 
+5   P P . P P P P P P 
+6   P P P . P P P P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move C4-D is OK! New board is above.
+
+
+
+Your current score is: 40 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P . P P P P P P 
+5   P P . P P P P P P 
+6   P P P P . . P P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move F6-L is OK! New board is above.
+
+
+
+Your current score is: 39 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P . P P . P P P 
+5   P P . P P . P P P 
+6   P P P P . P P P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move F4-D is OK! New board is above.
+
+
+
+Your current score is: 38 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P . P P . P P P 
+5   P P . P P . P P P 
+6   P P P P P . . P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move G6-L is OK! New board is above.
+
+
+
+Your current score is: 37 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         P P .       
+4   P P . P P P P P P 
+5   P P . P P . P P P 
+6   P P P P P . . P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move F2-D is OK! New board is above.
+
+
+
+Your current score is: 36 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . . P       
+4   P P . P P P P P P 
+5   P P . P P . P P P 
+6   P P P P P . . P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move D3-R is OK! New board is above.
+
+
+
+Your current score is: 35 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . . P       
+4   P P . P P P P P P 
+5   P P . P P . P P P 
+6   P P P . . P . P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move D6-R is OK! New board is above.
+
+
+
+Your current score is: 34 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . . P       
+4   P P . P P P P P P 
+5   P P . P P . P P P 
+6   P . . P . P . P P 
+7         P . P       
+8         P P P       
+9         P P P       
+
+The random move B6-R is OK! New board is above.
+
+
+
+Your current score is: 33 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . . P       
+4   P P . P P P P P P 
+5   P P . P P . P P P 
+6   P . . P . P . P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move E9-U is OK! New board is above.
+
+
+
+Your current score is: 32 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . . P       
+4   P P . P P P . P P 
+5   P P . P P . . P P 
+6   P . . P . P P P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move G4-D is OK! New board is above.
+
+
+
+Your current score is: 31 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . P P       
+4   P P . P . P . P P 
+5   P P . P . . . P P 
+6   P . . P . P P P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move E5-U is OK! New board is above.
+
+
+
+Your current score is: 30 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . P P       
+4   P P . P . P . P P 
+5   . . P P . . . P P 
+6   P . . P . P P P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move A5-R is OK! New board is above.
+
+
+
+Your current score is: 29 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P .       
+3         . P P       
+4   P P . P . P . P P 
+5   . . P P . . . P P 
+6   P . . P P . . P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move G6-L is OK! New board is above.
+
+
+
+Your current score is: 28 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         . . P       
+3         . P P       
+4   P P . P . P . P P 
+5   . . P P . . . P P 
+6   P . . P P . . P P 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move D2-R is OK! New board is above.
+
+
+
+Your current score is: 27 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         . . P       
+3         . P P       
+4   P P . P . P . P P 
+5   . . P P . . . P P 
+6   P . . P P . P . . 
+7         P P P       
+8         P . P       
+9         P . P       
+
+The random move I6-L is OK! New board is above.
+
+
+
+Your current score is: 26 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+
+Your current score is: 43 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   P P . . P P P P P 
+6   P P P P P P P P P 
+7         P P P       
+8         P P P       
+9         P P P       
+
+The random move C5-R is OK! New board is above.
+
+
+
+Your current score is: 42 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   . . P . P P P P P 
+6   P P P P P P P P P 
+7         P P P       
+8         P P P       
+9         P P P       
+
+The random move A5-R is OK! New board is above.
+
+
+
+Your current score is: 41 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   . . P P P P P P P 
+6   P P P . P P P P P 
+7         . P P       
+8         P P P       
+9         P P P       
+
+The random move D7-U is OK! New board is above.
+
+
+
+Your current score is: 40 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P P P P P 
+5   . . P P P P P P P 
+6   P P P P . . P P P 
+7         . P P       
+8         P P P       
+9         P P P       
+
+The random move F6-L is OK! New board is above.
+
+
+
+Your current score is: 39 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P . P P P 
+5   . . P P P . P P P 
+6   P P P P . P P P P 
+7         . P P       
+8         P P P       
+9         P P P       
+
+The random move F4-D is OK! New board is above.
+
+
+
+Your current score is: 38 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P P . P P P 
+5   . . P P P P P P P 
+6   P P P P . . P P P 
+7         . P .       
+8         P P P       
+9         P P P       
+
+The random move F7-U is OK! New board is above.
+
+
+
+Your current score is: 37 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P . . P P P 
+5   . . P P . P P P P 
+6   P P P P P . P P P 
+7         . P .       
+8         P P P       
+9         P P P       
+
+The random move E4-D is OK! New board is above.
+
+
+
+Your current score is: 36 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P . P . . P 
+5   . . P P . P P P P 
+6   P P P P P . P P P 
+7         . P .       
+8         P P P       
+9         P P P       
+
+The random move H4-L is OK! New board is above.
+
+
+
+Your current score is: 35 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P . P . . P 
+5   . . P P . P P P P 
+6   P P P P P P . . P 
+7         . P .       
+8         P P P       
+9         P P P       
+
+The random move H6-L is OK! New board is above.
+
+
+
+Your current score is: 34 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P P P       
+3         P P P       
+4   P P P P . P . . P 
+5   . . P P . P P P P 
+6   P P P P P P . . P 
+7         P P .       
+8         . P P       
+9         . P P       
+
+The random move D9-U is OK! New board is above.
+
+
+
+Your current score is: 33 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P . . P 
+5   . . P P . P P P P 
+6   P P P P P P . . P 
+7         P P .       
+8         . P P       
+9         . P P       
+
+The random move E2-D is OK! New board is above.
+
+
+
+Your current score is: 32 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P . . P 
+5   . . P P . P P P P 
+6   P P P P P P . . P 
+7         . . P       
+8         . P P       
+9         . P P       
+
+The random move D7-R is OK! New board is above.
+
+
+
+Your current score is: 31 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P . . P 
+5   . . P P . P P P P 
+6   P P P P . . P . P 
+7         . . P       
+8         . P P       
+9         . P P       
+
+The random move E6-R is OK! New board is above.
+
+
+
+Your current score is: 30 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P . . P 
+5   . P . . . P P P P 
+6   P P P P . . P . P 
+7         . . P       
+8         . P P       
+9         . P P       
+
+The random move D5-L is OK! New board is above.
+
+
+
+Your current score is: 29 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P . . P 
+5   . P . . . P P P P 
+6   P P P P . . P . P 
+7         . . P       
+8         P . .       
+9         . P P       
+
+The random move F8-L is OK! New board is above.
+
+
+
+Your current score is: 28 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P P . P 
+5   . P . . . P . P P 
+6   P P P P . . . . P 
+7         . . P       
+8         P . .       
+9         . P P       
+
+The random move G6-U is OK! New board is above.
+
+
+
+Your current score is: 27 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U
+U: Up
+D: Down
+L: Left
+R: Right
+UR: Up-Right
+UL: Up-Left
+DR: Down-Right
+DL: Down-Left
+
+    A B C D E F G H I 
+
+1         P P P       
+2         P . P       
+3         P . P       
+4   P P P P P P P . P 
+5   . P . . . P . P P 
+6   P P . . P . . . P 
+7         . . P       
+8         P . .       
+9         . P P       
+
+The random move C6-R is OK! New board is above.
+
+
+
+Your current score is: 26 Move entry format is: 'coordinate'-'direction'. Examples move entries: D3-R, A5-U

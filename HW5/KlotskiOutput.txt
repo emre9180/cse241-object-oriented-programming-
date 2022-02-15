@@ -1,0 +1,707 @@
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+I        J
+
+
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+I        J
+
+
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+I  G     J
+
+
+
+Your move G-D was OK!
+
+
+Your current score is: 18 Your goal is reach the block B to exit. The current board is above. Move entry format is: 'block type'-'direction'. Examples move entries: A-R, F-U
+
+U: Up
+D: Down
+L: Left
+R: Right
+
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+I  G     J
+
+
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D        F
+I  G  H  J
+
+
+
+Your move H-D was OK!
+
+
+Your current score is: 18 Your goal is reach the block B to exit. The current board is above. Move entry format is: 'block type'-'direction'. Examples move entries: A-R, F-U
+
+U: Up
+D: Down
+L: Left
+R: Right
+
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D        F
+I  G  H  J
+
+
+A  B  B  C
+A  B  B  C
+D        F
+D  E  E  F
+I  G  H  J
+
+
+
+Your move E-D was OK!
+
+
+Your current score is: 18 Your goal is reach the block B to exit. The current board is above. Move entry format is: 'block type'-'direction'. Examples move entries: A-R, F-U
+
+U: Up
+D: Down
+L: Left
+R: Right
+
+A  B  B  C
+A  B  B  C
+D        F
+D  E  E  F
+I  G  H  J
+
+
+A        C
+A  B  B  C
+D  B  B  F
+D  E  E  F
+I  G  H  J
+
+
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+I  G     J
+
+
+
+The random move G-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+I     G  J
+
+
+
+The random move G-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+   I  G  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+   E  E  F
+D     H  F
+D  I  G  J
+
+
+
+The random move D-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E     F
+D     H  F
+D  I  G  J
+
+
+
+The random move E-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D        F
+D  I  G  J
+
+
+
+The random move H-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I     F
+D     G  J
+
+
+
+The random move I-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     I  F
+D     G  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I     F
+D     G  J
+
+
+
+The random move I-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I  G  F
+D        J
+
+
+
+The random move G-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     G  F
+D  I     J
+
+
+
+The random move I-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     G  F
+D  I  J   
+
+
+
+The random move J-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     G  F
+D  I     J
+
+
+
+The random move J-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D        F
+D  I  G  J
+
+
+
+The random move G-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I     F
+D     G  J
+
+
+
+The random move I-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     I  F
+D     G  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I     F
+D     G  J
+
+
+
+The random move I-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D     I  F
+D     G  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+E  E  H  F
+D  I     F
+D     G  J
+
+
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+I  G     J
+
+
+
+The random move G-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+I        J
+
+
+
+The random move G-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+   I     J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G     F
+   I  H  J
+
+
+
+The random move H-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G     F
+I     H  J
+
+
+
+The random move I-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G     F
+   I  H  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+   I     J
+
+
+
+The random move H-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  G  H  F
+      I  J
+
+
+
+The random move I-R is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+   G  I  J
+
+
+
+The random move G-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     H  F
+G     I  J
+
+
+
+The random move G-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  H     F
+G     I  J
+
+
+
+The random move H-L is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D  H  I  F
+G        J
+
+
+
+The random move I-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D     I  F
+G  H     J
+
+
+
+The random move H-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D        F
+G  H  I  J
+
+
+
+The random move I-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D        F
+D  E  E  F
+G  H  I  J
+
+
+
+The random move E-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D  E  E  F
+D        F
+G  H  I  J
+
+
+
+The random move E-U is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D        F
+D  E  E  F
+G  H  I  J
+
+
+
+The random move E-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A        C
+A  B  B  C
+D  B  B  F
+D  E  E  F
+G  H  I  J
+
+
+
+The random move B-D is OK! New board is above.
+
+
+Your current score is: 18 Your goal is reach the block B to exit. Move entry format is: 'block name'-'direction'. Examples move entries: A-R, H-U
+U: Up
+D: Down
+L: Left
+R: Right
+A  B  B  C
+A  B  B  C
+D        F
+D  E  E  F
+G  H  I  J
+
+
